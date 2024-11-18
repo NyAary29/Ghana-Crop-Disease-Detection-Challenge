@@ -1,0 +1,5 @@
+train: ./path_to_train_images
+val: ./path_to_validation_images
+
+nc: 3  # Nombre de classes
+names: ['Pepper_Bacterial_Spot', 'Pepper_Fusarium', 'Corn_Streak']
